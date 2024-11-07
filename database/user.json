@@ -1,0 +1,37 @@
+[
+  {
+    "role_code": "c",
+    "email": "david123@gmail.com",
+    "password": "$2a$10$2amSu4ZKVyErZ1i6Zd/HweITiObBLjbiltlx6IL5nrDYw4qOkcumi",
+    "fullname": "David Simbolon",
+    "login_platform": "system"
+  },
+  {
+    "role_code": "b",
+    "email": "benefit123@gmail.com",
+    "password": "$2a$10$P8Swsp2kS9cPyBjzLOdQUu2dmq.aVEzvb5kOTPnAi27XvzuIDxtBS",
+    "fullname": "Benefit Simatupang",
+    "login_platform": "system"
+  },
+  {
+    "role_code": "a",
+    "email": "portpolio.david99@gmail.com",
+    "password": null,
+    "fullname": "David Simbolon",
+    "login_platform": "google"
+  },
+  {
+    "role_code": "b",
+    "email": "davidhedrin123@gmail.com",
+    "password": null,
+    "fullname": "Hedrin David",
+    "login_platform": "facebook"
+  },
+  {
+    "role_code": "a",
+    "email": "davidlagi123@gmail.com",
+    "password": "$2a$10$EJOSDWO/KDBaTNKmUiXRNutA2Hu7dPfgg7TVx3XTgmD78Zk.S9tnq",
+    "fullname": "David Lagi",
+    "login_platform": "system"
+  }
+]

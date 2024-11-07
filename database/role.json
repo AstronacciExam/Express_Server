@@ -1,0 +1,23 @@
+[
+  {
+      "slug": "a",
+      "access_article": 3,
+      "access_video": 3,
+      "all_article": false,
+      "all_video": false
+  },
+  {
+      "slug": "b",
+      "access_article": 10,
+      "access_video": 10,
+      "all_article": false,
+      "all_video": false
+  },
+  {
+      "slug": "c",
+      "access_article": null,
+      "access_video": null,
+      "all_article": true,
+      "all_video": true
+  }
+]
